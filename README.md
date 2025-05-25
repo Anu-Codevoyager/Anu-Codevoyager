@@ -12,8 +12,7 @@ I am a full time Software Engineer specialized in .NET tech stack with 4+ years 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anu-Codevoyager&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anu-Codevoyager&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anu-Codevoyager&theme=jolly&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-Codevoyager&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
